@@ -1,5 +1,5 @@
-:HL["/MiraiAssist-LP-preview/_next/static/chunks/42ghl1-1muvan.css","style"]
+:HL["/MiraiAssist-LP-preview/_next/static/chunks/0l0yv8e7pkez0.css","style"]
 :HL["/MiraiAssist-LP-preview/_next/static/media/abc90e3a599e849c-s.p.2y2uoi4t910qy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/MiraiAssist-LP-preview/images/hero/quantum-sphere-1200.webp","image",{"imageSrcSet":"/MiraiAssist-LP-preview/images/hero/quantum-sphere-480.webp 480w, /MiraiAssist-LP-preview/images/hero/quantum-sphere-800.webp 800w, /MiraiAssist-LP-preview/images/hero/quantum-sphere-1200.webp 1200w","imageSizes":"(min-width: 1536px) 690px, (min-width: 1024px) 600px, (min-width: 640px) 440px, 340px","fetchPriority":"high"}]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"rNgt42LcMBL77CG5tiSPW","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"eJWo0S5f7_nLayhafcgna","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
