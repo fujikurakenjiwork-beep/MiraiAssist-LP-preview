@@ -1,4 +1,4 @@
-:HL["/MiraiAssist-LP-preview/_next/static/chunks/37_uv40k373jq.css","style"]
+:HL["/MiraiAssist-LP-preview/_next/static/chunks/1zotdqvw9uka7.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"68Aa1GHPeBZel7e_4RmR-","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"DzSJOM6imSvF5An3zqAg0","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
