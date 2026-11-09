@@ -1,4 +1,4 @@
-:HL["/MiraiAssist-LP-preview/_next/static/chunks/04wemxyb45zui.css","style"]
+:HL["/MiraiAssist-LP-preview/_next/static/chunks/42ghl1-1muvan.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"cr3uf1X9da1uXhwFx_C8U","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"rNgt42LcMBL77CG5tiSPW","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
