@@ -1,5 +1,5 @@
-:HL["/MiraiAssist-LP-preview/_next/static/chunks/0yfc9wu82uxf2.css","style"]
+:HL["/MiraiAssist-LP-preview/_next/static/chunks/04wemxyb45zui.css","style"]
 :HL["/MiraiAssist-LP-preview/_next/static/media/abc90e3a599e849c-s.p.2y2uoi4t910qy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"terms","h":64,"c":"$Q2"}]]
-0:{"b":"HTjI7JYBVKtJx5DCU7Aej","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"cr3uf1X9da1uXhwFx_C8U","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
