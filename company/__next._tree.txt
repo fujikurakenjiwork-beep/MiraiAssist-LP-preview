@@ -1,5 +1,5 @@
-:HL["/MiraiAssist-LP-preview/_next/static/chunks/0l0yv8e7pkez0.css","style"]
+:HL["/MiraiAssist-LP-preview/_next/static/chunks/3aebvz3e383ra.css","style"]
 :HL["/MiraiAssist-LP-preview/_next/static/media/abc90e3a599e849c-s.p.2y2uoi4t910qy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"company","h":64,"c":"$Q2"}]]
-0:{"b":"eJWo0S5f7_nLayhafcgna","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"E9ppFWtGwUOVoI1Ir0CGM","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
