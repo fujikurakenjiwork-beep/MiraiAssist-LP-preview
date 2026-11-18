@@ -1,27 +1,28 @@
 2:"$Sreact.fragment"
-3:"/MiraiAssist-LP-preview/_next/static/chunks/3qfy96eoyh-ek.js"
-4:I[39756,["$3"],"default"]
-5:I[37457,["$3"],"default"]
-a:"/MiraiAssist-LP-preview/_next/static/chunks/3vwqpzbfcu140.js"
-b:I[22016,["$a"],""]
-c:I[97367,["$3"],"OutletBoundary"]
-d:"$Sreact.suspense"
-10:"ViewportBoundary"
-11:I[97367,["$3"],"$10"]
-12:"MetadataBoundary"
-13:I[97367,["$3"],"$12"]
-14:I[27201,["$3"],"IconMark"]
+3:I[3848,[],""]
+4:I[6558,[],""]
+9:"static/chunks/14-25bec3d06536e5b6.js"
+a:"static/chunks/61-a5bf1eb1032dff22.js"
+b:"static/chunks/app/page-bb252d6e2c0abf63.js"
+c:I[441,["14","$9","61","$a","974","$b"],""]
+d:I[965,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[965,[],"$11"]
+13:"MetadataBoundary"
+14:I[965,[],"$13"]
+15:I[864,[],"IconMark"]
+6:X
+6:C
 7:X
+8:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"id":"main","className":"bg-aurora min-h-dvh pt-32 pb-24 md:pt-40","children":["$","div",null,{"children":[["$","p",null,{"className":"font-display text-label font-semibold text-brand-cyan uppercase","children":"404"}],["$","h1",null,{"className":"mt-4 text-h1","children":"ページが見つかりません"}],["$","div",null,{"className":"mt-12","children":[["$","p",null,{"className":"text-fg-muted","children":"お探しのページは、移動または削除された可能性があります。"}],["$","$Lc",null,{"href":"/","children":"トップページへ戻る","className":"inline-flex items-center justify-center gap-2 rounded-full font-bold whitespace-nowrap select-none transition-[background-position,background-color,border-color,box-shadow,scale] duration-500 ease-cinematic motion-safe:active:scale-[0.98] disabled:cursor-not-allowed disabled:opacity-50 bg-brand-gradient text-surface-deep shadow-glow-cyan hover:bg-[position:100%_0] hover:shadow-glow-violet min-h-14 px-8 text-base mt-10"}]]}]],"className":"mx-auto w-full max-w-[1200px] px-5 md:px-8 max-w-3xl animate-panel-in"}]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$7"}}]]
+1:[["children",{"s":"_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#050816"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ページが見つかりません｜MIRAI ASSIST"}],["$","meta","1",{"name":"description","content":"MIRAI ASSIST（ミライアシスト）は、AI営業自動化、業務効率化、AIシステム開発、Web制作を通じて企業のDXを支援します。AIテレアポシステムも開発中です。AI活用のご相談はこちら。"}],["$","meta","2",{"name":"application-name","content":"ミライアシスト"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],["$","meta","4",{"name":"format-detection","content":"telephone=no"}],["$","meta","5",{"property":"og:title","content":"AIテレアポ・営業自動化・AIシステム開発｜MIRAI ASSIST"}],["$","meta","6",{"property":"og:description","content":"MIRAI ASSIST（ミライアシスト）は、AI営業自動化、業務効率化、AIシステム開発、Web制作を通じて企業のDXを支援します。AIテレアポシステムも開発中です。AI活用のご相談はこちら。"}],["$","meta","7",{"property":"og:site_name","content":"ミライアシスト"}],["$","meta","8",{"property":"og:locale","content":"ja_JP"}],["$","meta","9",{"property":"og:image","content":"http://localhost:3100/MiraiAssist-LP-preview/opengraph-image.png?f1b7643a0bbc8c2c"}],["$","meta","10",{"property":"og:image:type","content":"image/png"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"ミライアシスト｜AIと創造力で、ビジネスの未来を加速する。"}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"AIテレアポ・営業自動化・AIシステム開発｜MIRAI ASSIST"}],["$","meta","17",{"name":"twitter:description","content":"MIRAI ASSIST（ミライアシスト）は、AI営業自動化、業務効率化、AIシステム開発、Web制作を通じて企業のDXを支援します。AIテレアポシステムも開発中です。AI活用のご相談はこちら。"}],["$","meta","18",{"name":"twitter:image","content":"http://localhost:3100/MiraiAssist-LP-preview/opengraph-image.png?f1b7643a0bbc8c2c"}],["$","meta","19",{"name":"twitter:image:alt","content":"ミライアシスト｜AIと創造力で、ビジネスの未来を加速する。"}],["$","meta","20",{"name":"twitter:image:type","content":"image/png"}],["$","meta","21",{"name":"twitter:image:width","content":"1200"}],["$","meta","22",{"name":"twitter:image:height","content":"630"}],["$","link","23",{"rel":"icon","href":"/MiraiAssist-LP-preview/icon.png?6b5ee764a343bfe3","type":"image/png","sizes":"64x64"}],["$","link","24",{"rel":"apple-touch-icon","href":"/MiraiAssist-LP-preview/apple-icon.png?8fc492de58a929da","type":"image/png","sizes":"180x180"}],["$","$L15","25",{}]]}]}],null]}],null]}],"p":"$@16","v":null,"s":"$7"}},"a":"$@17","u":"$@18","b":"S5oit24HOk4584vlNxdW1"}
+f:null
+18:true
+7:300
 7:C
-8:X
-9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"id":"main","className":"bg-aurora min-h-dvh pt-32 pb-24 md:pt-40","children":["$","div",null,{"children":[["$","p",null,{"className":"font-display text-label font-semibold text-brand-cyan uppercase","children":"404"}],["$","h1",null,{"className":"mt-4 text-h1","children":"ページが見つかりません"}],["$","div",null,{"className":"mt-12","children":[["$","p",null,{"className":"text-fg-muted","children":"お探しのページは、移動または削除された可能性があります。"}],["$","$Lb",null,{"href":"/","children":"トップページへ戻る","className":"inline-flex items-center justify-center gap-2 rounded-full font-bold whitespace-nowrap select-none transition-[background-position,background-color,border-color,box-shadow,scale] duration-500 ease-cinematic motion-safe:active:scale-[0.98] disabled:cursor-not-allowed disabled:opacity-50 bg-brand-gradient text-surface-deep shadow-glow-cyan hover:bg-[position:100%_0] hover:shadow-glow-violet min-h-14 px-8 text-base mt-10"}]]}]],"className":"mx-auto w-full max-w-[1200px] px-5 md:px-8 max-w-3xl animate-panel-in"}]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$8"}}]]
-1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
-0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#050816"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ページが見つかりません｜MIRAI ASSIST"}],["$","meta","1",{"name":"description","content":"AI技術とWebクリエイティブを融合し、企業のデジタル変革、業務効率化、集客、マーケティングを総合的に支援する次世代型クリエイティブカンパニー。"}],["$","meta","2",{"name":"application-name","content":"ミライアシスト"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],["$","meta","4",{"name":"format-detection","content":"telephone=no"}],["$","meta","5",{"property":"og:title","content":"ミライアシスト｜AIと創造力で、ビジネスの未来を加速する。"}],["$","meta","6",{"property":"og:description","content":"AI技術とWebクリエイティブを融合し、企業のデジタル変革、業務効率化、集客、マーケティングを総合的に支援する次世代型クリエイティブカンパニー。"}],["$","meta","7",{"property":"og:url","content":"https://fujikurakenjiwork-beep.github.io/MiraiAssist-LP-preview/"}],["$","meta","8",{"property":"og:site_name","content":"ミライアシスト"}],["$","meta","9",{"property":"og:locale","content":"ja_JP"}],["$","meta","10",{"property":"og:image","content":"https://fujikurakenjiwork-beep.github.io/MiraiAssist-LP-preview/opengraph-image.png?opengraph-image.3_w-mx-pbx0js.png"}],["$","meta","11",{"property":"og:image:type","content":"image/png"}],["$","meta","12",{"property":"og:image:width","content":"1200"}],["$","meta","13",{"property":"og:image:height","content":"630"}],["$","meta","14",{"property":"og:image:alt","content":"ミライアシスト｜AIと創造力で、ビジネスの未来を加速する。"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"ミライアシスト｜AIと創造力で、ビジネスの未来を加速する。"}],["$","meta","18",{"name":"twitter:description","content":"AI技術とWebクリエイティブを融合し、企業のデジタル変革、業務効率化、集客、マーケティングを総合的に支援する次世代型クリエイティブカンパニー。"}],["$","meta","19",{"name":"twitter:image","content":"https://fujikurakenjiwork-beep.github.io/MiraiAssist-LP-preview/opengraph-image.png?opengraph-image.3_w-mx-pbx0js.png"}],["$","meta","20",{"name":"twitter:image:alt","content":"ミライアシスト｜AIと創造力で、ビジネスの未来を加速する。"}],["$","meta","21",{"name":"twitter:image:type","content":"image/png"}],["$","meta","22",{"name":"twitter:image:width","content":"1200"}],["$","meta","23",{"name":"twitter:image:height","content":"630"}],["$","link","24",{"rel":"icon","href":"/MiraiAssist-LP-preview/icon.png?icon.2j5pw20kae9wa.png","sizes":"64x64","type":"image/png"}],["$","link","25",{"rel":"apple-touch-icon","href":"/MiraiAssist-LP-preview/apple-icon.png?apple-icon.2-7etdlpkkmuc.png","sizes":"180x180","type":"image/png"}],["$","$L14","26",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$8"}},"a":"$@16","u":"$@17","b":"DzSJOM6imSvF5An3zqAg0"}
-e:null
-17:true
-8:300
-8:C
-16:0
-6:"$undefined"
-15:"$undefined"
-f:"$undefined"
+17:0
+5:"$undefined"
+16:"$undefined"
+10:"$undefined"
