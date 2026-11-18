@@ -1,4 +1,4 @@
-:HL["/MiraiAssist-LP-preview/_next/static/css/8be04b4770cc000a.css","style"]
+:HL["/MiraiAssist-LP-preview/_next/static/css/6704a7761293182e.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"privacy","h":64,"c":"$Q2"}]]
-0:{"b":"S5oit24HOk4584vlNxdW1","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"FB0EMU-u8RrQNg8OcOLi7","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
